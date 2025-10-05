@@ -9,7 +9,7 @@
 
 ## Mars & Sustainability Research (Public Domain / Open Access)
 5. Omran, A., et al. Toward Sustainable Mars Exploration. MDPI, Aerospace, 12(5), 432, 2025. https://www.mdpi.com/2226-4310/12/5/432. Acesso em: 05 out. 2025.
-6. Smith, J., et al. Designing Sustainable Built Environments for Mars. ScienceDirect, 2024. https://www.sciencedirect.com/science/article/pii/S2950160124000287. Acesso em: 05 out. 2025.
-7. Li, X., et al. Enabling Martian Habitability with Silica Aerogel. arXiv, 2019. https://arxiv.org/abs/1907.09089. Acesso em: 05 out. 2025.
-8. National Center for Biotechnology Information (NCBI). A Comprehensive Blueprint for Mars Colonization. PMC, 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC10884476. Acesso em: 05 out. 2025.
-9. NASA Science. Space Crops – Biological and Physical Research. https://science.nasa.gov/biological-physical/space-crops. Acesso em: 05 out. 2025.
+6. Li, X., et al. Enabling Martian Habitability with Silica Aerogel. arXiv, 2019. https://arxiv.org/abs/1907.09089. Acesso em: 05 out. 2025.
+7. National Center for Biotechnology Information (NCBI). A Comprehensive Blueprint for Mars Colonization. PMC, 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC10884476. Acesso em: 05 out. 2025.
+8. NASA Science. Space Crops – Biological and Physical Research. https://science.nasa.gov/biological-physical/space-crops. Acesso em: 05 out. 2025.
+
