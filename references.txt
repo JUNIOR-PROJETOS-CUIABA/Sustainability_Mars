@@ -6,7 +6,7 @@ Earth & Terra Satellite:
 
 Mars & Sustainability Research:
 - https://www.mdpi.com/2226-4310/12/5/432
-- https://www.sciencedirect.com/science/article/pii/S2950160124000287
 - https://arxiv.org/abs/1907.09089
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC10884476
 - https://science.nasa.gov/biological-physical/space-crops
+
