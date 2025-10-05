@@ -7,7 +7,6 @@ This project presents a 7-slide educational presentation about sustainability fr
 
 ## Files
 - `Sustainability_from_Earth_to_Mars_Expanded_Blue.pptx` : English version
-- `Sustainability_from_Earth_to_Mars_Expanded_Blue_Portuguese.pptx` : Portuguese version
 - `references.txt` : All public references used in the presentation
 
 ## Notes
