@@ -17,3 +17,4 @@ The presentation includes storytelling elements, Earth observation data from NAS
 - Background is blue with Planet Earth illustration
 - All sources are public and educational
 - AI (ChatGPT GPT-5) was used to create the narrative and structure
+Code/data generated using AI (ChatGPT GPT-5)
